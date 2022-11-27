@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "vantals/static/css/main.dfa5fbe1.css",
+    "main.js": "vantals/static/js/main.820d6d1f.js",
+    "static/js/787.490a35ad.chunk.js": "vantals/static/js/787.490a35ad.chunk.js",
+    "index.html": "vantals/index.html",
+    "main.dfa5fbe1.css.map": "vantals/static/css/main.dfa5fbe1.css.map",
+    "main.820d6d1f.js.map": "vantals/static/js/main.820d6d1f.js.map",
+    "787.490a35ad.chunk.js.map": "vantals/static/js/787.490a35ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa5fbe1.css",
+    "static/js/main.820d6d1f.js"
+  ]
+}
