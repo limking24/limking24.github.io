@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vantals/static/css/main.dfa5fbe1.css",
-    "main.js": "/vantals/static/js/main.e392d2ad.js",
+    "main.js": "/vantals/static/js/main.17878077.js",
     "static/js/787.490a35ad.chunk.js": "/vantals/static/js/787.490a35ad.chunk.js",
     "index.html": "/vantals/index.html",
     "main.dfa5fbe1.css.map": "/vantals/static/css/main.dfa5fbe1.css.map",
-    "main.e392d2ad.js.map": "/vantals/static/js/main.e392d2ad.js.map",
+    "main.17878077.js.map": "/vantals/static/js/main.17878077.js.map",
     "787.490a35ad.chunk.js.map": "/vantals/static/js/787.490a35ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfa5fbe1.css",
-    "static/js/main.e392d2ad.js"
+    "static/js/main.17878077.js"
   ]
 }
